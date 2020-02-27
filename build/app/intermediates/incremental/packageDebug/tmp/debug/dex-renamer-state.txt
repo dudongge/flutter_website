@@ -1,0 +1,4 @@
+#Wed Feb 26 20:45:56 CST 2020
+base.0=/Users/kaka/Desktop/dudongge/Flutter_Learning/flutter_website/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

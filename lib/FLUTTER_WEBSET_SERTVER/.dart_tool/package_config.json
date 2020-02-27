@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "flutter_site_server",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    }
+  ],
+  "generated": "2020-02-24T12:21:52.816986Z",
+  "generator": "pub",
+  "generatorVersion": "2.7.0"
+}
